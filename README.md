@@ -78,5 +78,3 @@ Siga os passos abaixo para configurar e usar o projeto:
 **Nota**: O código armazena os dados na EEPROM, mas não inclui uma forma de recuperá-los diretamente. Para acessar os logs, você pode adicionar funcionalidades ao código, como exibi-los via monitor serial.
 
 ---
-
-Esperamos que este projeto seja útil! Se precisar de ajustes ou tiver dúvidas, sinta-se à vontade para abrir uma issue ou contribuir com o repositório.
