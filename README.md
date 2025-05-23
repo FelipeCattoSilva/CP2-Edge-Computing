@@ -1,4 +1,4 @@
-# Sistema de Monitoramento UmlimitTech Solution
+# Sistema de Monitoramento UnlimitTech Solution
 
 Este projeto é um sistema de monitoramento ambiental desenvolvido para Arduino. Ele utiliza sensores para medir temperatura, umidade e luminosidade, exibindo os dados em um display LCD. Além disso, o sistema inclui alertas visuais e sonoros para condições fora dos limites definidos e registra os dados em intervalos regulares.
 
